@@ -6,8 +6,6 @@ The objective is to analyze how **parental background, family conditions, study 
 
 The project focuses on **insight generation and statistical understanding**, without using heavy machine learning models.
 
----
-
 ## 🎯 Objectives
 - Understand the structure and quality of the dataset  
 - Analyze academic performance using grades (**G1, G2, G3**)  
@@ -18,8 +16,6 @@ The project focuses on **insight generation and statistical understanding**, wit
   - Study time  
   - Gender  
 - Identify factors affecting final student performance  
-
----
 
 ## 📂 Dataset Information
 - **Dataset:** Student Performance Dataset (UCI Repository)  
@@ -35,8 +31,6 @@ The project focuses on **insight generation and statistical understanding**, wit
 - Family relationship quality  
 
 📌 The dataset contains **no missing values**, making it suitable for direct analysis.
-
----
 
 ## 🛠 Tools & Libraries Used
 - Python  
@@ -56,8 +50,6 @@ The project focuses on **insight generation and statistical understanding**, wit
 6. Correlation analysis using heatmaps  
 7. Insight generation based on visual analysis  
 
----
-
 ## 📈 Key Visualizations
 - Parents’ education distribution  
 - Parents’ education vs student performance  
@@ -67,8 +59,6 @@ The project focuses on **insight generation and statistical understanding**, wit
 - Gender-wise performance comparison  
 - Correlation heatmap between academic and lifestyle factors  
 
----
-
 ## 🔑 Key Insights
 - Students with **higher parental education** tend to perform better academically  
 - **Study time** has a positive impact on student performance  
@@ -76,8 +66,6 @@ The project focuses on **insight generation and statistical understanding**, wit
 - Students with **strong family relationships** score higher on average  
 - **Second-period grade (G2)** strongly influences the final grade (G3)  
 - Gender differences exist but are **not the dominant factor** in performance  
-
----
 
 ## 🚀 Conclusion
 This project demonstrates how **Exploratory Data Analysis** can uncover meaningful patterns in educational data and help understand the influence of socio-academic and lifestyle factors on student performance.
